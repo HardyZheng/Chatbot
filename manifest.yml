@@ -1,7 +1,7 @@
 ---
 applications:
-- name: webchatbot
+- name: chatbot-hd
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 2e38d5ef-7506-4e38-804e-e83f3cbe6926
+    CONVERSATION_WORKSPACE_ID: 4d7cd010-1c55-4599-a6f7-f17a9d6aafd9
